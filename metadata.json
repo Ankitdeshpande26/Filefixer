@@ -1,0 +1,6 @@
+{
+  "name": "FileFixer.online",
+  "description": "Free everyday file utility website to compress, resize, convert, and manage images and PDFs directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
